@@ -1,2 +1,4 @@
-# Mapping_Earthquakes
-Module 13: Mapping Earthquakes with JS and APIs 
+# Mapping Earthquakes
+Module 13 Challenge
+
+## Project Overview
