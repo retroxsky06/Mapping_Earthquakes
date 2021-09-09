@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# ignote the config.js file
+config.js
+
 # Distribution / packaging
 .Python
 build/
