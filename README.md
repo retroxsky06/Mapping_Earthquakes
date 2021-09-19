@@ -18,7 +18,7 @@ The purpose of this project is to create visualizations of earthquake data from 
 - Mapbox API
 
 ## Earthquake Map
-The interactive map allows users to toggle between three map views: Street, Satellite, and Dark Mode.  Additionally, users are able to choose the type of data that will be displayed, such as showcasing all earthquake data and/or earth's tectonic plates. 
+The interactive map allows users to toggle between three map views: Street, Satellite, and Dark Mode.  Additionally, users are able to choose the type of data (layers) that will be displayed, such as showcasing all earthquake data and/or earth's tectonic plates. 
 
 #### Image: Interactive Earthquake Map
 ![fig1](https://github.com/retroxsky06/Mapping_Earthquakes/blob/main/Earthquake_Challenge/earthquake_map.png)
